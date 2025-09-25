@@ -1,9 +1,12 @@
-Parkie Lewis
+# Parkie Lewis
 
-Interest - Art/soccer & cooking as well as writing books.
+* Art/soccer & cooking as well as writing books.
 
-Likes to play video games for fun/hobby.
+* Likes to play video games for fun/hobby.
 
-Favorite movies are the lion king movies.
+* Favorite movies are the **lion king** movies.
 
-They are professional in the fields of cooking expertise.
+## Fun fact
+They are professional in the fields of *cooking expertise*.
+
+This profile was created by Kameron497
