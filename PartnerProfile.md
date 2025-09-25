@@ -1,4 +1,6 @@
-# Parkie Lewis
+# Meet Parkie Lewis
+
+## About Parkie Lewis
 
 * Art/soccer & cooking as well as writing books.
 
@@ -9,4 +11,4 @@
 ## Fun fact
 They are professional in the fields of *cooking expertise*.
 
-This profile was created by Kameron497
+This profile was created by Kameron
